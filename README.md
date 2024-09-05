@@ -25,8 +25,8 @@
     
   </div>
     <footer>
-        <div class="container">
-            <p>&copy; GEms^R2024 </p>
+        <div class="middle">
+            <p> GEms^R2024 </p>
         </div>
     </footer>
 <script>
