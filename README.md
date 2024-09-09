@@ -26,18 +26,8 @@
   </div>
     <footer>
         <div class=".container">
-            <p> GEms^R2024 </p>
+            <p> $$GEms^R2024$$ </p>
         </div>
     </footer>
-<script>
-   document.addEventListener('DOMContentLoaded', function () {
-           var path = window.location.pathname;
-           var page = path.split("/").pop();
-           var link = document.getElementById(page.split('.')[0]);
-           if (link) {
-           link.classList.add('active');
-                }
-           });
-    </script>
 </body>
 </html>
