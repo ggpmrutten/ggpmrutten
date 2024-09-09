@@ -9,8 +9,8 @@
 <body>
     <nav>
         <ul>
-            <li><a id="research" href="research.html">Research</a></li>
-            <li><a id="teaching" href="teaching.html">Teaching</a></li>
+            <li><a id="Research" href="Research.html">Research</a></li>
+            <li><a id="Teaching" href="Teaching.html">Teaching</a></li>
         </ul>
     </nav>
     <div class="container">
