@@ -1,5 +1,5 @@
 ### Underground ecology & species coexistence
-<img src="../main/SavannaTrees.png" alt="SavannaTrees"/>
+<img src="../images/SavannaTrees" alt=""/>
 # Interactions between roots, fungal mutualists and pathogens  
 A considerable part of the biosphere is hidden belowground. Recent advances in ecological methods help to better understand how various intertwined life forms interact. By combining plant-soil feedback experiments with microbial sequencing approaches, we try to disentangle the impact of various fungal components on plant-plant interactions and plant diversity. Additionally, we ask how mutualistic, pathogenic and plant interactions are affected by changing environmental conditions, like global warming or increasing summer droughts. Finally, we aim to understand how these interactions affect ecosystem functioning as a whole and how these interactions contribution to the services various ecosystems provide for human wellbeing. 
 
