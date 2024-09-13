@@ -1,10 +1,10 @@
 ### Underground ecology & species coexistence
-<img src="images/SavannaTrees" alt=""/>
-# Interactions between roots, fungal mutualists and pathogens  
+<img src="../main/images/Savanna.Trees.JPG" alt=""/>
 
+# Interactions between roots, fungal mutualists and pathogens  
 A considerable part of the biosphere is hidden belowground. Recent advances in ecological methods help to better understand how various intertwined life forms interact. By combining plant-soil feedback experiments with microbial sequencing approaches, we try to disentangle the impact of various fungal components on plant-plant interactions and plant diversity. Additionally, we ask how mutualistic, pathogenic and plant interactions are affected by changing environmental conditions, like global warming or increasing summer droughts. Finally, we aim to understand how these interactions affect ecosystem functioning as a whole and how these interactions contribution to the services various ecosystems provide for human wellbeing. 
 
-## Gemma Rutten
+## About me
 Gemma Rutten received her PhD from university of Bern, where she studied how climate and land use change the vegetation structure of various ecotypes on Mt Kilimanjaro. With a mobility grant of the Swiss National Science Foundation, she studied the effects of soil biota on Mediterranean oak recruitment over a precipitation gradient in Southern Spain. She was subsequently a postdoctoral researcher, at the German Centre for Integrative Biodiversity Research (iDiv) and the Martin Luther University (MLU) in Germany where she studied the effects of biodiversity on ecosystem functioning, focussing on links between plants and foliar fungi in the phyllosphere, in a Chinese subtropical forests experiment [BEF-China](https://bef-china.com/index.html).  She was a postdoctoral researcher at Alpine Ecology Laboratory, University Grenoble Alpes (LECA), Grenoble, France, before moving back to the University of Bern, where she is a researcher and lecturer in the [Allan Ecology](https://allanecology.com/) group. Gemma’s research focusses on belowground plant interactions mediated by mutualistic and pathogenic fungi and how these interactions respond to global change.
 
 ## Research
